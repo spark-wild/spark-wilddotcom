@@ -1,0 +1,99 @@
+
+.Spark_spontaneous  {
+  font-size: 28px;
+  font-family: "Helvetica Neue";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  position: absolute;
+}
+
+
+.a_outdoor_activity {
+  font-size: 28px;
+  font-family: "Helvetica Neue";
+  color: rgb(255, 255, 255);
+  line-height: 1.3;
+  position: absolute;
+}
+
+
+
+.divider {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.50;
+  position: absolute;
+  width: 80px;
+  height: 6px;
+}
+
+
+
+.get_early_access {
+  font-size: 22px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1;
+  position: absolute;
+}
+
+
+
+.SparkWild_is_currently_in_private {
+  font-size: 18px;
+  font-family: "Helvetica Neue";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+}
+
+
+
+.&copy;_SparkWild_2015 {
+  font-size: 15px;
+  font-family: "Helvetica Neue";
+  color: rgba(255, 255, 255, 0.549);
+  line-height: 1.2;
+  position: absolute;
+}
+
+
+
+
+
+--------
+
+
+INPUT FORM:
+
+.Enter_your_email_address_here: {
+  font-size: 15px;
+  font-family: "Helvetica Neue";
+  color: rgb(212, 212, 212);
+  font-style: italic;
+  line-height: 1.2;
+  position: absolute;
+}
+
+.white_email_input_field {
+background-color: rgb(255, 255, 255);
+position: absolute;
+width: 290px;
+height: 55px;
+}
+
+
+.yellow_CTA {
+  background-color: rgb(255, 204, 0);
+  position: absolute;
+  width: 70px;
+  height: 55px;
+}
+
+
+
+
+
+
