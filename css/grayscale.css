@@ -261,6 +261,14 @@ a:focus {
     padding-top: 100px;
 }
 
+#about.content-section {
+    padding-top: 0;
+}
+
+#about.content-section p {
+    margin-top: 35px;
+}
+
 .download-section {
     width: 100%;
     padding: 50px 0;
