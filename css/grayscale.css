@@ -10,6 +10,7 @@ body {
     font-family: "Helvetica Neue"
     color: #fff;
     background-color: #1a9e6d;
+    overflow-x: hidden; /* yay hacks! */
 }
 
 html {
