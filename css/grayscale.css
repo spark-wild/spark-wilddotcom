@@ -37,12 +37,6 @@ p {
     line-height: 1.5;
 }
 
-#mc_embed_signup{
-    background:#fff; 
-    clear:left;
-    font:14px Helvetica,Arial,sans-serif;
-}
-
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
@@ -207,6 +201,7 @@ a:focus {
 .email-input  {
     background-color: rgb(255, 255, 255);
     position: absolute;
+    color: #1a9e6d;
     width: 210px;
     height: 35px;
     border-style: none;
@@ -214,6 +209,7 @@ a:focus {
     border-width: 0;
     padding-left:10px;
 }
+
 
 
 .email-button {
@@ -391,14 +387,12 @@ footer p {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: #adadad;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: #adadad;
 }
 
 img::selection {
