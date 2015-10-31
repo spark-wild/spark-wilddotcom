@@ -29,4 +29,13 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+$( '.email-form' ).submit(function(e){
+    e.preventDefault();
+        console.log("redirecting!")
 
+    email = $("#USEREMAIL").val();
+    url = "https://spark-wild.us12.list-manage.com/subscribe/post?u=0ed40783f5893febcd0295a9e&amp;id=c8dbee9dac&MERGE0="+ email;
+    var win = window.open(url, '_blank');
+    wind.focus();
+
+});
