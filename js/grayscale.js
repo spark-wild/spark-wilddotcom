@@ -39,6 +39,5 @@ $( '.email-form' ).submit(function(e){
         url = "https://spark-wild.us12.list-manage.com/subscribe/post?u=0ed40783f5893febcd0295a9e&amp;id=c8dbee9dac";
     }
     var win = window.open(url, '_blank');
-    win.focus();
 
 });

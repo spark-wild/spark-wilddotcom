@@ -188,7 +188,6 @@ a:focus {
   font-size: 15px;
 }
 
-
 .intro .intro-body .email-form {
     font-size: 15px;
     font-family: "Helvetica Neue";
@@ -210,8 +209,6 @@ a:focus {
     padding-left:10px;
 }
 
-
-
 .email-button {
     background-color: rgb(255, 204, 0);
     position: absolute;
@@ -222,7 +219,6 @@ a:focus {
     border-radius:2px;
     border-width: 0;
 }
-
 
 @media(min-width:768px) {
     .intro {
